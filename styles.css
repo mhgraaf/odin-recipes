@@ -1,0 +1,29 @@
+li {
+  display: inline-block;
+  padding: 10px;
+  margin: 50px;
+  background-color: rgb(135, 223, 255);
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(109, 109, 109);
+  font-size: 20px;
+}
+
+a:hover {
+  color: white;
+}
+
+#pasta:hover {
+  background-color: rgb(255, 128, 0);
+}
+
+#casserole:hover {
+  background-color: rgb(185, 0, 0);
+}
+
+#soup:hover {
+  background-color: rgb(88, 206, 62);
+}
